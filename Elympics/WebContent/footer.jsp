@@ -4,4 +4,4 @@
 
 <div align="center" class="foot">
 		Astir Academy © Creator Andrea Mazza
-	</div>
+</div>
