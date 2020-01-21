@@ -74,7 +74,7 @@
 			</div>
 			<div class="d-flex flex-row-reverse">
 				<div class="p-2"><img src="img/pacman.jpg" alt="Third slide" class="newsImage" id="floatDx"></div>
-				<div class="p-2 text-justify">Peter Travers di Rolling Stone ha scritto: "Di Black Panther si pu&ograve dire che eleva l’evasione del cinema fino a un livello vicino a quello dell'arte: non avete mai visto nulla di simile nella vostra vita". Brian Truitt di USA Today scrive che il film mette in scena temi profondi e che &egrave allo stesso tempo uno spettacolo per gli occhi, con "folli sequenze d'azione ed effetti speciali, e la gloriosa rivelazione di Wakanda, la cui cultura &egrave intrisa di influenze africane ma che offre anche uno sguardo sbalorditivo su come potrebbe essere una citt&agrave del futuro".</div>
+				<div class="p-2 text-justify">Peter Travers di Rolling Stone ha scritto: "Di Black Panther si pu&ograve dire che eleva l'evasione del cinema fino a un livello vicino a quello dell'arte: non avete mai visto nulla di simile nella vostra vita". Brian Truitt di USA Today scrive che il film mette in scena temi profondi e che &egrave allo stesso tempo uno spettacolo per gli occhi, con "folli sequenze d'azione ed effetti speciali, e la gloriosa rivelazione di Wakanda, la cui cultura &egrave intrisa di influenze africane ma che offre anche uno sguardo sbalorditivo su come potrebbe essere una citt&agrave del futuro".</div>
 			</div>
 		</div>
 	</div>
