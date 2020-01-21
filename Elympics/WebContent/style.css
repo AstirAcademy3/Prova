@@ -151,6 +151,35 @@ tbody{
 	color: #007bff;
 }
 
+.btn:hover{
+	 box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.medat{
+	width:7%; height:15%;
+}
+
+.medadd{
+	width:20%; height:20%;
+}
+
+.dropleft{
+	color: #007bff;
+	
+}
+
+.btnrk:hover{
+	background-color: #007bff !important; 
+	box-shadow: none !important;
+	border: none !important;
+}
+
+.btnrk{
+	border: none !important;
+	background-color: #007bff !important; 
+	box-shadow: none !important;
+}
+
 #btnTop {
   display: none;
   position: fixed;
