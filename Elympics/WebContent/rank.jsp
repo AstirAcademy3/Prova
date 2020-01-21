@@ -10,10 +10,10 @@
 <title>Ranking</title>
 </head>
 <body>
-<jsp:include page="header.jsp"></jsp:include>
-<h3 class="font-italic med" align="center">Medal</h3>
-&nbsp
-<table class="table table-bordered table-striped tab shadow p-3 mb-5 bg-white rounded" >
+	<jsp:include page="header.jsp"></jsp:include>
+	<h3 class="font-italic med" align="center">Medal</h3>
+	&nbsp
+	<table class="table table-bordered table-striped tab shadow p-3 mb-5 bg-white rounded" >
 		<thead class="bg-primary" style="color: white">
 			<tr align="center">
 				<th scope="col"></th>
@@ -37,10 +37,10 @@
 			</tr>
 		</tbody>
 	</table>
-&nbsp
-&nbsp
-<h3 class="font-italic med" align="center">Best Country's Player</h3>
-&nbsp
+	&nbsp
+	&nbsp
+	<h3 class="font-italic med" align="center">Best Country's Player</h3>
+	&nbsp
 	<table class="table table-bordered table-striped tab shadow p-3 mb-5 bg-white rounded">
 		<thead class="bg-primary" style="color: white">
 			<tr align="center">
@@ -65,5 +65,6 @@
 			</tr>
 		</tbody>
 	</table>
+	<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>

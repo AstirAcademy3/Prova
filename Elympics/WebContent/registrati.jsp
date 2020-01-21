@@ -88,7 +88,7 @@
 	    </div>
 	  </div>
 	  <button type="submit" class="btn btn-primary" style="width: 38.5rem">Suscribe</button>
-	 
 	</form>
+	<jsp:include page="footerLogReg.jsp"></jsp:include>
 </body>
 </html>

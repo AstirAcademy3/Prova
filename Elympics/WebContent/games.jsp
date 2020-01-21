@@ -25,7 +25,6 @@
 				</a>
 			</div>
 		</div>
-
 		<div class="card" style="width: 18rem; ">
 			<img src="img/pacman.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
@@ -40,7 +39,6 @@
 				</a>
 			</div>
 		</div>
-
 		<div class="card" style="width: 18rem; ">
 			<img src="img/solitario.jpg" class="card-img-top" alt="...">
 			<div class="card-body">
@@ -55,7 +53,7 @@
 				</a>
 			</div>
 		</div>
-
 	</div>
+	<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>

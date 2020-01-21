@@ -3,7 +3,7 @@
     <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %> 
 <!DOCTYPE html>
 <html>
-	<head>
+<head>
 		<style><%@include file="style.css" %></style>
 		<style><%@include file="bootstrapLib/css/bootstrap.min.css" %></style>
 		<meta charset="ISO-8859-1">
@@ -22,10 +22,10 @@
 			  }
 			}
 		</script>
-	</head>
-	<body>
-		<jsp:include page="header.jsp"></jsp:include>
-		<form method="GET" action="check_login">
+</head>
+<body>
+<jsp:include page="header.jsp"></jsp:include>
+	<form method="GET" action="check_login">
 		<div class="log">
 			<div class="form-group">
 				<label for="exampleInputEmail1">Username</label>
@@ -50,5 +50,6 @@
 	<div align="center">
 		<a href="registrati.jsp" >Non sei registrato ? Clicca qui ! </a>
 	</div>
-	</body>
+	<jsp:include page="footerLogReg.jsp"></jsp:include>
+</body>
 </html>
